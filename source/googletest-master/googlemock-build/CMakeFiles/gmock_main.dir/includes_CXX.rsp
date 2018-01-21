@@ -1,0 +1,1 @@
+-isystem C:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googlemock/include -IC:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googlemock -isystem C:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googletest/include -IC:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googletest 

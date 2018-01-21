@@ -1,0 +1,4 @@
+C:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googlemock-build/gtest/CMakeFiles/gtest.dir
+C:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googlemock-build/CMakeFiles/gmock.dir
+C:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googlemock-build/gtest/CMakeFiles/gtest_main.dir
+C:/Users/Digao/Desktop/helloFreeBTC/helloFreeBTC/googletest-master/googlemock-build/CMakeFiles/gmock_main.dir

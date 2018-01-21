@@ -1,0 +1,12 @@
+*.pdb
+*.o
+*.exe
+*.ilk
+*.obj
+*.user
+bin/debug
+bin/release
+bin/Makefile
+bin/Makefile.Debug
+bin/Makefile.Release
+bin/ui_mainwindow.h
